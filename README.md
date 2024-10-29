@@ -6,4 +6,4 @@ I’m a backend developer with a focus on building efficient, scalable applicati
 📚 Pursuing an MBA to complement my technical skills with strategic business insight.
 Let’s connect and build something great together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukkoth)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-Yeshanew)](https://github.com/anuraghazra/github-readme-stats)
